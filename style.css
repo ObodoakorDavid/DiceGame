@@ -1,0 +1,48 @@
+/** @format */
+body {
+  background-color: blueviolet;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+h1 {
+  margin: 30px;
+  font-family: cursive;
+  font-size: 4rem;
+  color: black;
+}
+
+p {
+  font-size: 2rem;
+  color: navy;
+  font-family: cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  font-family: cursive;
+  color: maroon;
+  text-align: center;
+  font-style: italic;
+  margin-top: 10%;
+}
+.div1{
+    text-align: center;
+
+}
+
+button{
+    margin: 10px;
+}
